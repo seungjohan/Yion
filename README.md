@@ -1,5 +1,5 @@
 멋쟁이사자처럼_LikeLion_Yion
-YOLO Lion // CAU LikeLion 
+###YOLO Lion // CAU LikeLion 
 ======================
 
 # 1. TEAM
