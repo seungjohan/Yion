@@ -1,7 +1,7 @@
 # Yion
 YOLO Lion // CAU LikeLion 
 
-멋쟁이사자처럼_LikeLion_우리가최고조
+멋쟁이사자처럼_LikeLion_Yion
 ======================
 
 # 1. TEAM
